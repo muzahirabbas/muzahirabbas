@@ -1,5 +1,4 @@
 <div align="center">
-
          _
         |_)
        _|_
@@ -91,13 +90,13 @@ This dashboard provides a transparent look into my coding journey and contributi
 I'm always keen to network, collaborate, and discuss technology. Feel free to reach out!
 
 <p align="center">
-  <a href="https://your-website.com" target="_blank">
+  <a href="https://swissarmyknife.pages.dev" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://linkedin.com/in/muzahirabbas14" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:muzahirabbas247@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
