@@ -127,11 +127,3 @@ I'm always open to networking and discussing tech. Feel free to reach out!
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=muzahirabbas&label=PROFILE+VIEWS&style=flat-square&color=blueviolet" alt="Profile views"/>
 </div>
-Key Changes Made:
-Correct Identity: All references now correctly point to Muzahir Abbas and the username muzahirabbas.
-
-Updated Stats: The GitHub stats, language cards, and activity graph now correctly fetch data from your muzahirabbas profile.
-
-Placeholders for You: I've used placeholders for your website, LinkedIn, and email. Please edit the file and add your correct links. I've marked them with `` in the code to make them easy to find.
-
-Again, my apologies for the frustrating mix-up. I hope this new version perfectly captures your "Swiss Army Knife" persona.
