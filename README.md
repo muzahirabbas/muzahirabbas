@@ -20,13 +20,11 @@
 / /             \ \
 / /               \ \
 /                 /
-
 ███████████████████████████████████████████████████████████
 █▄─▄▄─█▄─▄▄▀█▄─▄▄─█▄─█▀▄─█▄─▄▄─█─▄▄─█▄─▄▄─█▄─▄▄─█─▄▄▄▄█
 ██─▄▄▄██─▄─▄██─▄█▀██─██─██─▄█▀██─██─██─██─██─▄█▀█─██▄─█
 █▄▄▄█▄▀▄▄▀▄▄▀▄▄▄▄▄▀▄▄▄▀▄▄▀▄▄▄▄▄▀▄▄▄▄▀▄▄▄▄▀▄▄▄▄▄▀▄▄▄▄▄▀
 ███████████████████████████████████████████████████████████
-
 
 </div>
 
@@ -44,7 +42,7 @@ I'm Muzahir Abbas, a versatile engineer who approaches every challenge with a so
 - 🔭 I’m currently working on exciting new projects that blend **innovative backend architectures** with **responsive frontend design**.
 - 🌱 I’m constantly sharpening my skills in **modern cloud deployments** and **cutting-edge web frameworks**.
 - 👯 I’m open to collaborating on open-source projects that push the boundaries of technology.
-- 📫 How to reach me: **[your-email@example.com](mailto:your-email@example.com)**
+- 📫 How to reach me: **[muzahirabbas247@gmail.com](muzahirabbas247@gmail.com)**
 
 ---
 
