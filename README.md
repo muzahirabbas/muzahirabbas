@@ -1,5 +1,6 @@
 <div align="center">
-     
+
+<pre>
      _
     |_)
    _|_
@@ -21,7 +22,6 @@
 / / \
 / /
 
-</div>
    ________________________________
   /                                \
  |   Swiss Army Knife 🛠️  —  Multi Tool |
@@ -29,8 +29,11 @@
       |||||    |||||     ||||||
        |||      |||       |||
         |        |         |
+</pre>
 
-<div align="center">
+**🧰 Swiss Army Knife — Your All-in-One Developer Toolkit**
+</div>
+
 
 ### <div align="center">Hi there, I'm Muzahir Abbas 👋</div>
 
