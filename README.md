@@ -111,19 +111,6 @@ With roots in **interactive media**, **AI automation**, and **project leadership
 
 ---
 
-### 🗣 Testimonials
-
-> “Muzahir is one of the most talented and dedicated professionals I’ve had the pleasure of working with.”  
-> — *Afia Javed, Registered Dental Assistant*
-
-> “Muzahir is a 3D wizard! He has a rare ability to balance artistic vision with technical expertise.”  
-> — *Hira Batool, Digital Marketer*
-
-> “I highly recommend Muzahir to any organization looking for a talented and committed professional.”  
-> — *Syed Muhammad Ali Musa, Engineer*
-
----
-
 ### 📊 GitHub Activity
 
 <div align="center">
