@@ -1,17 +1,6 @@
 <div align="center">
 
 <pre>
- 
-                                                                                                                                          
-                                                                                                                                          
-                                                                                                                                          
-                                                                                                                                          
-                                                                                                                                          
-                                                                                                                                          
-                                                                                                                                          
-                                                                                                                                          
-                                                                                                                                          
-                                                                                                                                          
           cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc          
           cccccccccccccccccccccccccccccccccccccccccccJJZZddddddZZZZZZZZZZZZddddddZZJJccccccccccccccccccccccccccccccccccccccccccc          
           cccccccccccccccccccccccccccccccccccccJZZddZZJJccccccccccccccccccccccccccJJZZddZZJccccccccccccccccccccccccccccccccccccc          
@@ -66,17 +55,7 @@
           ccccccccccccccccccccccccccccccccJZddZZJccccccccccccccccccccccccccccccccccccccccJZZddZJcccccccccccccccccccccccccccccccc          
           cccccccccccccccccccccccccccccccccccccJZdddZJJJccccccccccccccccccccccccccJJJZdddZJccccccccccccccccccccccccccccccccccccc          
           cccccccccccccccccccccccccccccccccccccccccccJJZZdddddZZZZZJJJJZZZZZddddddZJJccccccccccccccccccccccccccccccccccccccccccc          
-          cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc          
-                                                                                                                                          
-                                                                                                                                          
-                                                                                                                                          
-                                                                                                                                          
-                                                                                                                                          
-                                                                                                                                          
-                                                                                                                                          
-                                                                                                                                          
-                                                                                                                                          
-                                                                                                                                          
+          cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc                                                                             
      
 ______________________
 /                       \
