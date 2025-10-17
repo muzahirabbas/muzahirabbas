@@ -1,62 +1,23 @@
 <div align="center">
 
 <pre>
-          cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc          
-          cccccccccccccccccccccccccccccccccccccccccccJJZZddddddZZZZZZZZZZZZddddddZZJJccccccccccccccccccccccccccccccccccccccccccc          
-          cccccccccccccccccccccccccccccccccccccJZZddZZJJccccccccccccccccccccccccccJJZZddZZJccccccccccccccccccccccccccccccccccccc          
-          ccccccccccccccccccccccccccccccccJZddZZJccccccccccccccccccccccccccccccccccccccccJZZddZJcccccccccccccccccccccccccccccccc          
-          ccccccccccccccccccccccccccccJJddZJccccccccccccccccccccccccccccccccccccccccccccccccccJZddZJcccccccccccccccccccccccccccc          
-          cccccccccccccccccccccccccJZddJccccccccccccccccccccccccccccccccccccccccccccccccccccccccccJddZJccccccccccccccccccccccccc          
-          cccccccccccccccccccccccZddJccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccJddZccccccccccccccccccccccc          
-          ccccccccccccccccccccJddJccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccJddJcccccccccccccccccccc          
-          ccccccccccccccccccZdZJccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccJZdZcccccccccccccccccc          
-          ccccccccccccccccZdZJccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccJZdZcccccccccccccccc          
-          ccccccccccccccZdZJcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccZdZcccccccccccccc          
-          ccccccccccccJddJccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccJddJcccccccccccc          
-          cccccccccccZdZccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccJdZccccccccccc          
-          ccccccccccddccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccddJccccccccc          
-          ccccccccJdZcccccccccccccccccccccccJZddddZZdddddddddddddZZJJJcccccccccccccccccccccccccccccccccccccccccccccccZdJcccccccc          
-          cccccccJdZcccccccccccccccccccccZdZJcccccJZdZJcccccccccccJJJJJJJZZdddddddZZZZZZJJJcccccccccccccccccccccccccccZdJccccccc          
-          ccccccJdZccccccccccccccccccccJdZcccccccccccJdZcccccccccccccccccccccccccccccccJJJJJZdddZdddZccccccccccccccccccJdJcccccc          
-          cccccJdZccccccccccccccccccccJdJcccccJZZZJcccJdZccccccccccccccccccccccccccccccccJJddJccJddJccccccccccccccccccccZdJccccc          
-          ccccJdZcccccccccccccccccccccJdccccJdZcccJdZcccZdJccccccccccccccccccccccccccJJddZJccJZdZccccccccccccccccccccccccZdJcccc          
-          ccccZdccccccccccccccccccccccJdJcccZdcccccZdccccZddddddZJJJccccccccJJJJZdddZZccccJddZccccccccccccccccccccccccccccdZcccc          
-          cccZdJcccccccccccccccccccccccZdZcccZdZJZddccccccJdddJcccccJZZZZZZZJccccccccZdddZJcccccccccccccccccccccccccccccccJdZccc          
-          cccdZcccccccccccccccccccccccccJdZccccJJJcccccccccJddZJZdddddddZZZZdddddddZJJcccccccccccccccccccccccccccccccccccccZdccc          
-          ccZdJccccccccccccccccccccccccccJZdcccccccccccccccccddddZJccccccccccccccccccccccccccccccccccccccccccccccccccccccccJdZcc          
-          ccddcccccccccccccccccccccccccccccZdJcccccccZddJcccccZdJcJddZJcccccccccccccccccccccccccccccccccccccccccccccccccccccddcc          
-          cJdZccccccccccccccccccccccccccccccJdJccccZZJcccccccccJdZcccJZdZccZddZcccccccccccccccccccccccccccccccccccccccccccccZdJc          
-          cJdJcccccccccccccccccccccccccccccccJdZcccccccJZdZJcccccdZcccJdZddJcdJcccJZJcccccccccccccccccccccccccccccccccccccccJdJc          
-          cJdJcccccccccccccccccccccccccccccccccdZccccJdJccccccccccZdccddZcccZdJcZdddJcccccccccccccccccccccccccccccccccccccccJdZc          
-          cJdJccccccccccccccccccccccccccccccccccZdJcccccccdddJcccccZdJccccccddddJcdZccJddZccccccccccccccccccccccccccccccccccJdZc          
-          cJdJcccccccccccccccccccccccccccccccccccJdJccccZZJcccccccccJdJcccccZZcccJdZZdZJdZccccccccccccccccccccccccccccccccccJdZc          
-          cJdJccccccccccccccccccccccccccccccccccccJdZcccccccZddZcccccJdZcccccccccZdZJccJdJccccccccccccccccccccccccccccccccccJdJc          
-          cJdZcccccccccccccccccccccccccccccccccccccJdZccccJZJccccccccccZZcccccccccccccccccccccccccccccccccccccccccccccccccccZdJc          
-          ccZdcccccccccccccccccccccccccccccccccccccccZdcccccccJZdZJcccccZdJcccccccccccccccccccccccccccccccccccccccccccccccccZdcc          
-          ccZdJcccccccccccccccccccccccccccccccccccccccZdJccccZZccccccccccZdJcccccccccccccccccccccccccccccccccccccccccccccccJdZcc          
-          cccdZccccccccccccccccccccccccccccccccccccccccJdJccccccccccccccccJdZccccccccccccccccccccccccccccccccccccccccccccccZdccc          
-          cccZdJccccccccccccccccccccccccccccccccccccccccJddcccccccJddddZJcccdZccccccccccccccccccccccccccccccccccccccccccccJdZccc          
-          ccccZdccccccccccccccccccccccccccccccccccccccccccddJccccZdccccJdZcccZdcccccccccccccccccccccccccccccccccccccccccccdZcccc          
-          ccccJdZccccccccccccccccccccccccccccccccccccccccccZdJcccZZccccJdZcccJdJcccccccccccccccccccccccccccccccccccccccccZdJcccc          
-          cccccJdZcccccccccccccccccccJJJJJJJJJJJJJJJJJJJJJJJZdZcccZdZZddZccccJdJccccccccccccccccccccccccccccccccccccccccZdJccccc          
-          ccccccJdJccccccccccccccccccZdJJJJJJJJJJJJJJJJJJJJJJJdZcccccccccccccdZccccccccccccccccccccccccccccccccccccccccJdJcccccc          
-          cccccccJdZccccccccccccccccccdZJccccccccccccccccccccccZdJcccccccccZdZccccccccccccccccccccccccccccccccccccccccZdJccccccc          
-          ccccccccJdZccccccccccccccccccJdddZZZZZZZZZZZZZZZZZZZZZZddddZZZdddJcccccccccccccccccccccccccccccccccccccccccZdJcccccccc          
-          cccccccccJddccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccddJccccccccc          
-          cccccccccccZdZccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccJdZccccccccccc          
-          ccccccccccccJddJccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccJddJcccccccccccc          
-          ccccccccccccccZdZJcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccZdZcccccccccccccc          
-          ccccccccccccccccZdZJcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccZdZcccccccccccccccc          
-          ccccccccccccccccccZdZcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccJZdZcccccccccccccccccc          
-          ccccccccccccccccccccJddJccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccJddJcccccccccccccccccccc          
-          cccccccccccccccccccccccZddJccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccJddZccccccccccccccccccccccc          
-          cccccccccccccccccccccccccJZddJccccccccccccccccccccccccccccccccccccccccccccccccccccccccccJddZJccccccccccccccccccccccccc          
-          ccccccccccccccccccccccccccccJZddZJccccccccccccccccccccccccccccccccccccccccccccccccccJZddZJcccccccccccccccccccccccccccc          
-          ccccccccccccccccccccccccccccccccJZddZZJccccccccccccccccccccccccccccccccccccccccJZZddZJcccccccccccccccccccccccccccccccc          
-          cccccccccccccccccccccccccccccccccccccJZdddZJJJccccccccccccccccccccccccccJJJZdddZJccccccccccccccccccccccccccccccccccccc          
-          cccccccccccccccccccccccccccccccccccccccccccJJZZdddddZZZZZJJJJZZZZZddddddZJJccccccccccccccccccccccccccccccccccccccccccc          
-          cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc                                                                             
-     
+                                                                            
+                         dddddddd                                           
+                          ddddddddddd                                       
+                             ddddddddddd                                    
+                    ddddd       dddddddddddd                                
+                      dddddddddd    dddddddddddd                            
+                        ddddddddddddddd ddddddddddd                         
+                              ddddddddddddddddddddddddd                     
+               ddddddddddddddddddddddddddddddddddddddddddddddd              
+             ddddddddddddddddddddddddddddddddddddddddddddddddddd            
+             dddddddddddddddddddddddddddddddddddddddd    dddddd             
+             ddddddddddddddddddddddddddddddddddddddddddddddddddd            
+               ddddddddddddddddddddddddddddddddddddddddddddddd              
+                                         ddddddd                            
+                       dddd       ddddddd dd                                
+                          ddddddddddddddddd                                 
+                      ddd                                                       
 ______________________
 /                       \
 |   Swiss Army Knife 🛠️  |
