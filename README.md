@@ -2,26 +2,81 @@
 
 <pre>
  
-   _
-  |_)
- _|_
-/   \
-|  _  |
-| ( ) |
-|/ o \|
-/  _  \
-|  | |  |
-|  |_|  |
-|_______|
-/ // \ \\ \
-/ / / \ \ \ \
-/ /  / / \  \ \
-/ /   / / \   \ \
-/_/    / / \    \_\
-         / / \         
-/ / \
-/ / \
-/_/
+                                                                                                                                          
+                                                                                                                                          
+                                                                                                                                          
+                                                                                                                                          
+                                                                                                                                          
+                                                                                                                                          
+                                                                                                                                          
+                                                                                                                                          
+                                                                                                                                          
+                                                                                                                                          
+          cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc          
+          cccccccccccccccccccccccccccccccccccccccccccJJZZddddddZZZZZZZZZZZZddddddZZJJccccccccccccccccccccccccccccccccccccccccccc          
+          cccccccccccccccccccccccccccccccccccccJZZddZZJJccccccccccccccccccccccccccJJZZddZZJccccccccccccccccccccccccccccccccccccc          
+          ccccccccccccccccccccccccccccccccJZddZZJccccccccccccccccccccccccccccccccccccccccJZZddZJcccccccccccccccccccccccccccccccc          
+          ccccccccccccccccccccccccccccJJddZJccccccccccccccccccccccccccccccccccccccccccccccccccJZddZJcccccccccccccccccccccccccccc          
+          cccccccccccccccccccccccccJZddJccccccccccccccccccccccccccccccccccccccccccccccccccccccccccJddZJccccccccccccccccccccccccc          
+          cccccccccccccccccccccccZddJccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccJddZccccccccccccccccccccccc          
+          ccccccccccccccccccccJddJccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccJddJcccccccccccccccccccc          
+          ccccccccccccccccccZdZJccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccJZdZcccccccccccccccccc          
+          ccccccccccccccccZdZJccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccJZdZcccccccccccccccc          
+          ccccccccccccccZdZJcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccZdZcccccccccccccc          
+          ccccccccccccJddJccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccJddJcccccccccccc          
+          cccccccccccZdZccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccJdZccccccccccc          
+          ccccccccccddccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccddJccccccccc          
+          ccccccccJdZcccccccccccccccccccccccJZddddZZdddddddddddddZZJJJcccccccccccccccccccccccccccccccccccccccccccccccZdJcccccccc          
+          cccccccJdZcccccccccccccccccccccZdZJcccccJZdZJcccccccccccJJJJJJJZZdddddddZZZZZZJJJcccccccccccccccccccccccccccZdJccccccc          
+          ccccccJdZccccccccccccccccccccJdZcccccccccccJdZcccccccccccccccccccccccccccccccJJJJJZdddZdddZccccccccccccccccccJdJcccccc          
+          cccccJdZccccccccccccccccccccJdJcccccJZZZJcccJdZccccccccccccccccccccccccccccccccJJddJccJddJccccccccccccccccccccZdJccccc          
+          ccccJdZcccccccccccccccccccccJdccccJdZcccJdZcccZdJccccccccccccccccccccccccccJJddZJccJZdZccccccccccccccccccccccccZdJcccc          
+          ccccZdccccccccccccccccccccccJdJcccZdcccccZdccccZddddddZJJJccccccccJJJJZdddZZccccJddZccccccccccccccccccccccccccccdZcccc          
+          cccZdJcccccccccccccccccccccccZdZcccZdZJZddccccccJdddJcccccJZZZZZZZJccccccccZdddZJcccccccccccccccccccccccccccccccJdZccc          
+          cccdZcccccccccccccccccccccccccJdZccccJJJcccccccccJddZJZdddddddZZZZdddddddZJJcccccccccccccccccccccccccccccccccccccZdccc          
+          ccZdJccccccccccccccccccccccccccJZdcccccccccccccccccddddZJccccccccccccccccccccccccccccccccccccccccccccccccccccccccJdZcc          
+          ccddcccccccccccccccccccccccccccccZdJcccccccZddJcccccZdJcJddZJcccccccccccccccccccccccccccccccccccccccccccccccccccccddcc          
+          cJdZccccccccccccccccccccccccccccccJdJccccZZJcccccccccJdZcccJZdZccZddZcccccccccccccccccccccccccccccccccccccccccccccZdJc          
+          cJdJcccccccccccccccccccccccccccccccJdZcccccccJZdZJcccccdZcccJdZddJcdJcccJZJcccccccccccccccccccccccccccccccccccccccJdJc          
+          cJdJcccccccccccccccccccccccccccccccccdZccccJdJccccccccccZdccddZcccZdJcZdddJcccccccccccccccccccccccccccccccccccccccJdZc          
+          cJdJccccccccccccccccccccccccccccccccccZdJcccccccdddJcccccZdJccccccddddJcdZccJddZccccccccccccccccccccccccccccccccccJdZc          
+          cJdJcccccccccccccccccccccccccccccccccccJdJccccZZJcccccccccJdJcccccZZcccJdZZdZJdZccccccccccccccccccccccccccccccccccJdZc          
+          cJdJccccccccccccccccccccccccccccccccccccJdZcccccccZddZcccccJdZcccccccccZdZJccJdJccccccccccccccccccccccccccccccccccJdJc          
+          cJdZcccccccccccccccccccccccccccccccccccccJdZccccJZJccccccccccZZcccccccccccccccccccccccccccccccccccccccccccccccccccZdJc          
+          ccZdcccccccccccccccccccccccccccccccccccccccZdcccccccJZdZJcccccZdJcccccccccccccccccccccccccccccccccccccccccccccccccZdcc          
+          ccZdJcccccccccccccccccccccccccccccccccccccccZdJccccZZccccccccccZdJcccccccccccccccccccccccccccccccccccccccccccccccJdZcc          
+          cccdZccccccccccccccccccccccccccccccccccccccccJdJccccccccccccccccJdZccccccccccccccccccccccccccccccccccccccccccccccZdccc          
+          cccZdJccccccccccccccccccccccccccccccccccccccccJddcccccccJddddZJcccdZccccccccccccccccccccccccccccccccccccccccccccJdZccc          
+          ccccZdccccccccccccccccccccccccccccccccccccccccccddJccccZdccccJdZcccZdcccccccccccccccccccccccccccccccccccccccccccdZcccc          
+          ccccJdZccccccccccccccccccccccccccccccccccccccccccZdJcccZZccccJdZcccJdJcccccccccccccccccccccccccccccccccccccccccZdJcccc          
+          cccccJdZcccccccccccccccccccJJJJJJJJJJJJJJJJJJJJJJJZdZcccZdZZddZccccJdJccccccccccccccccccccccccccccccccccccccccZdJccccc          
+          ccccccJdJccccccccccccccccccZdJJJJJJJJJJJJJJJJJJJJJJJdZcccccccccccccdZccccccccccccccccccccccccccccccccccccccccJdJcccccc          
+          cccccccJdZccccccccccccccccccdZJccccccccccccccccccccccZdJcccccccccZdZccccccccccccccccccccccccccccccccccccccccZdJccccccc          
+          ccccccccJdZccccccccccccccccccJdddZZZZZZZZZZZZZZZZZZZZZZddddZZZdddJcccccccccccccccccccccccccccccccccccccccccZdJcccccccc          
+          cccccccccJddccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccddJccccccccc          
+          cccccccccccZdZccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccJdZccccccccccc          
+          ccccccccccccJddJccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccJddJcccccccccccc          
+          ccccccccccccccZdZJcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccZdZcccccccccccccc          
+          ccccccccccccccccZdZJcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccZdZcccccccccccccccc          
+          ccccccccccccccccccZdZcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccJZdZcccccccccccccccccc          
+          ccccccccccccccccccccJddJccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccJddJcccccccccccccccccccc          
+          cccccccccccccccccccccccZddJccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccJddZccccccccccccccccccccccc          
+          cccccccccccccccccccccccccJZddJccccccccccccccccccccccccccccccccccccccccccccccccccccccccccJddZJccccccccccccccccccccccccc          
+          ccccccccccccccccccccccccccccJZddZJccccccccccccccccccccccccccccccccccccccccccccccccccJZddZJcccccccccccccccccccccccccccc          
+          ccccccccccccccccccccccccccccccccJZddZZJccccccccccccccccccccccccccccccccccccccccJZZddZJcccccccccccccccccccccccccccccccc          
+          cccccccccccccccccccccccccccccccccccccJZdddZJJJccccccccccccccccccccccccccJJJZdddZJccccccccccccccccccccccccccccccccccccc          
+          cccccccccccccccccccccccccccccccccccccccccccJJZZdddddZZZZZJJJJZZZZZddddddZJJccccccccccccccccccccccccccccccccccccccccccc          
+          cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc          
+                                                                                                                                          
+                                                                                                                                          
+                                                                                                                                          
+                                                                                                                                          
+                                                                                                                                          
+                                                                                                                                          
+                                                                                                                                          
+                                                                                                                                          
+                                                                                                                                          
+                                                                                                                                          
      
 ______________________
 /                       \
