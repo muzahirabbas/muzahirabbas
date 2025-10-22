@@ -1,15 +1,5 @@
 <div align="center">
 
-<pre>
-______________________
-/                       \
-|   Swiss Army Knife 🛠️  |
-\_______________________/
- |||||  |||||  ||||||
-  |||    |||    |||
-   |      |      |
-</pre>
-
 **🧰 Swiss Army Knife — The Da Vinci of Tech**
 </div>
 
